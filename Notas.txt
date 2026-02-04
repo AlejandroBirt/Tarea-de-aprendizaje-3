@@ -1,1 +1,1 @@
-Este es un ejemplo de un archivo de texto plano
+He realizado cambios en los archivos PNG. He cambiado el tamaño de las imágenes a 400x400px.
